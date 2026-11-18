@@ -1,8 +1,8 @@
 Scenario,Pre-85 short removed (passive),Total short removed (blended),Extra govt cost (blended)
-"Base ($500k, market price)",2002,1001,13952
-"Base ($500k, market price) (63% passive)",2002,1261,14771
-Lower balance ($400k),0,0,1954
-Higher balance ($600k),14793,7397,23715
-Fair DLA pricing,2002,1001,13940
-Growth returns,7350,3675,19709
-Higher target ($55k),17100,9510,12176
+"Base ($500k, market price)",2027,1014,14067
+"Base ($500k, market price) (63% passive)",2027,1277,14896
+Lower balance ($400k),0,0,1986
+Higher balance ($600k),14878,7439,23823
+Fair DLA pricing,2027,1014,14056
+Growth returns,7536,3768,19858
+Higher target ($55k),17251,9558,12259
